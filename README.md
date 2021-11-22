@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming.
 - 🌱 I’m currently learning Java.
 - 💞️ I’m looking to collaborate on different projects.
-- 📫 How to reach me devashish.sule@gmail.com
+- 📫 My email id: devashish.sule@gmail.com
 
 <!---
 devashishSule/devashishSule is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
