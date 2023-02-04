@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://github.com/devashishSule" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="DevashishSule" height="30" width="40" /></a>
 <a href="https://twitter.com/devashishSule" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="DevashishSule" height="30" width="40" /></a>
-<a href="https://instagram.com/devashish.jpg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="devashishSule" height="30" width="40" /></a>
+<a href="https://instagram.com/devashish.jpeg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="devashishSule" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
