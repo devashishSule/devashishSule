@@ -3,13 +3,9 @@
 
 <h3 align="left">About Me:</h3>
 
-- 📍 I’m located at **Dombivli, Maharashtra**
+- 📍 I’m located at **Thane, Maharashtra**
 
-- 🔭 I’m currently working on [BookFlix (Book Recommendation System)](https://github.com/devashishSule/BookFlix_v1.0)
-
-- 🌱 I’m currently learning **Flask, Python**
-
-- 👯 I’m looking to collaborate on **Data Science Projects**
+- 🌱 I’m currently learning **Langchain, UiPath**
 
 - 📫 Reach me at **devashish.sule@gmail.com**
 
